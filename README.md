@@ -62,6 +62,8 @@ The implementation produced several interesting findings:
 - Both searches demonstrated efficient performance for vector similarity operations
 
 ### Embedding Comparison Results
+I do not really like Taylor Swift... but I do like this project, which happens to include her lyrics
+
 For the first query (wedding scene lyrics):
 ```
 Query: "I am not the kind of girl, who should be rudely barging in on a white veil occasion..."
@@ -95,4 +97,5 @@ These results demonstrate the effectiveness of using Milvus for vector similarit
 
 ## Reference
 
-Blog Post: [Comparing Different Vector Embeddings](https://zilliz.com/blog/comparing-different-vector-embeddings?utm_campaign=2023-10-30_nurture_zilliz-cloud-onboarding_global&utm_medium=email&_hsenc=p2ANqtz-_eX8EXGZEqC9cKF4WKnmlKF0SmkbdkZA_z9-8L0HB3RSlcVLtFhF3YPSYlZPi4u_OwDJGmhSKMc0oONuXQbA1gpbkUXw&_hsmi=287036736&utm_source=nurture)
+Do you want to try this project jusing a different artist?
+Find the blog post here: [Comparing Different Vector Embeddings](https://zilliz.com/blog/comparing-different-vector-embeddings?utm_campaign=2023-10-30_nurture_zilliz-cloud-onboarding_global&utm_medium=email&_hsenc=p2ANqtz-_eX8EXGZEqC9cKF4WKnmlKF0SmkbdkZA_z9-8L0HB3RSlcVLtFhF3YPSYlZPi4u_OwDJGmhSKMc0oONuXQbA1gpbkUXw&_hsmi=287036736&utm_source=nurture)
