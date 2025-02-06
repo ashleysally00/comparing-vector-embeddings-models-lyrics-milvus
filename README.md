@@ -2,7 +2,7 @@
 
 A project demonstrating the comparison of different language models using song lyrics and vector embeddings stored in Milvus database.
 
-**Note: I do not really like Taylor Swift... but I do like this project, which happens to use her lyrics**🎵
+🎵**Note: I do not really like Taylor Swift... but I do like this project, which happens to use her lyrics**🎵
 
 ## Project Overview
 
