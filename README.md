@@ -1,4 +1,4 @@
-# Comparing Models and Lyrics Using Vector Embeddings in Milvus
+Comparing Vector Embeddings from Different Models Using Milvus
 
 A project demonstrating the comparison of different language models using song lyrics and vector embeddings stored in Milvus database.
 
