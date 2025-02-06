@@ -1,6 +1,7 @@
 # Comparing Vector Embeddings from Different Models Using Milvus
 
 A project demonstrating the comparison of different language models using song lyrics and vector embeddings stored in Milvus database.
+**Note: I do not really like Taylor Swift... but I do like this project, which happens to include her lyrics**
 
 ## Project Overview
 
@@ -62,7 +63,6 @@ The implementation produced several interesting findings:
 - Both searches demonstrated efficient performance for vector similarity operations
 
 ### Embedding Comparison Results
-I do not really like Taylor Swift... but I do like this project, which happens to include her lyrics
 
 For the first query (wedding scene lyrics):
 ```
