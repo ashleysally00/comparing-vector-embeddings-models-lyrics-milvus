@@ -20,7 +20,7 @@ source venv/bin/activate
 
 # On Windows:
 venv\Scripts\activate
-```
+
 
 # Install required packages
 pip install pymilvus milvus sentence-transformers
