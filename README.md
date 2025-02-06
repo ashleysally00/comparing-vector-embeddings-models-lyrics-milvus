@@ -4,7 +4,7 @@ A project demonstrating the comparison of different language models using song l
 
 🎵**Note: I do not really like Taylor Swift... but I do like this project, which happens to use her lyrics**🎵
 
-## Project Overview
+## Project Overview 🤗
 
 The project demonstrates how to compare three different multilingual models based on MiniLM from Hugging Face using Milvus as the vector database. Using song lyrics as test data, it shows how different vector embeddings can be compared and analyzed.
 
